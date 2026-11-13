@@ -2,7 +2,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-register number-212225220064
+Register number-212225100039
 # AIM:
 To practice Linux Commands and Shell Scripting
 
